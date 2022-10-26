@@ -12,3 +12,4 @@ If you are new to this environment, the DAO Today podcast may help  and pave you
 
 
 *DAO Today  is for educational and thought-provoking purposes only, and nothing said by Aleksa or her guests can be construed as legal, business or financial advice.*
+![Coming soon](https://user-images.githubusercontent.com/116645164/198094357-fb86acc2-4d8a-47df-8603-38e1b9ea6200.png)

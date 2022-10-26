@@ -6,7 +6,7 @@ But in order for us to get to that point, we need to learn how to build DAOs in 
 
 The goal of [**DAO Today**](http://daotoday.io/) is to educate on DAOs and how they operate, discuss their onchain and offchain challenges, and of the blockchain industry as a whole. 
 
-In the [**DAO Today** podcast](http://daotoday.io/), you will have an opportunity to hear from people who have been building in the space for some time, from those that are just getting started, from legal and compliance and other professionals, and many more.
+In the [**DAO Today**](http://daotoday.io/) podcast, you will have an opportunity to hear from people who have been building in the space for some time, from those that are just getting started, from legal and compliance and other professionals, and many more.
 
 If you are new to this environment, the DAO Today podcast may help  and pave your way into this beautiful space.
 

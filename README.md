@@ -4,9 +4,9 @@ DAOs are here to change the corporate world that we know today, remove its limit
 
 But in order for us to get to that point, we need to learn how to build DAOs in a healthy and sustainable manner, we need to understand DAOs for what they are, the power of the community, what the challenges of this environment are - and how to navigate them.
 
-The goal of DAO Today podcast is to educate on DAOs and how they operate, discuss their onchain and offchain challenges, and of the blockchain industry as a whole. 
+The goal of [**DAO Today**](http://daotoday.io/) is to educate on DAOs and how they operate, discuss their onchain and offchain challenges, and of the blockchain industry as a whole. 
 
-In the DAO Today podcast, you will have an opportunity to hear from people who have been building in the space for some time, from those that are just getting started, from legal and compliance and other professionals, and many more.
+In the [**DAO Today** podcast](http://daotoday.io/), you will have an opportunity to hear from people who have been building in the space for some time, from those that are just getting started, from legal and compliance and other professionals, and many more.
 
 If you are new to this environment, the DAO Today podcast may help  and pave your way into this beautiful space.
 

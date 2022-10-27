@@ -1,3 +1,10 @@
+<h1 align="center"> 
+
+```DAO Today```
+
+ </h1>
+
+
 [**DAO Today**](http://daotoday.io/) podcast was specially designed to dive deeper into the DAO universe. DAOs are a novel concept that we’ve been experimenting with for a while, but we are still unable to fully understand what they are and how they work. 
 
 DAOs are here to change the corporate world that we know today, remove its limitations and bring more freedoms to us involved.
